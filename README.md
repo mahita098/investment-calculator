@@ -9,7 +9,7 @@ pnpm dev
 
 ## Deploy on Vercel
 
-Link to app :
+Link to app : https://investment-calculator-livid-two.vercel.app/
 
 # investment-calculator
 
